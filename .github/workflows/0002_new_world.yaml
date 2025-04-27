@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  say-hellov-new-world:
+  say-hello-new-world:
     runs-on: ubuntu-latest
     steps:
       - name: Say Hello New World
